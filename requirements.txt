@@ -1,0 +1,10 @@
+streamlit
+streamlit-lightweight-charts
+pandas
+pandas_ta
+pyyaml
+matplotlib
+git+https://github.com/rongardF/tvdatafeed.git
+
+pytest>=7.0.0
+pytest-cov>=4.0.0

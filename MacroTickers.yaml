@@ -1,0 +1,12 @@
+# MacroTickers.yaml
+# This file contains a list of elements with "ticker" and "frequency".
+# Frequency can only be "D" (Daily), "W" (Weekly), or "M" (Monthly).
+
+tickers:
+  - ticker: "INDEX:BTCUSD"
+    frequency: "D"
+  - ticker: "INDEX:ETHUSD"
+    frequency: "W"
+  - ticker: "CRYPTO:SOLUSD"
+    frequency: "M"
+  # Add more elements below as needed
